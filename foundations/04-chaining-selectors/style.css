@@ -1,0 +1,11 @@
+/* Style sheet for index.html */
+
+.avatar.proportioned {
+    image-height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
