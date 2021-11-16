@@ -1,0 +1,21 @@
+/* Style sheet for index.html */
+
+#number2 {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: rgba(0,255,0,0.6);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.class1, .class2 {
+    background-color: rgba(235,52,52,0.6);
+    font-family: "Verdana", sans-serif;
+}
+
+.class2 {
+    font-size: 24px;
+}
